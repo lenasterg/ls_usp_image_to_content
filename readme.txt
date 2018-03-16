@@ -1,5 +1,5 @@
 === Ls_usp_image_to_content ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: lenasterg
 Donate link: https://example.com/
 Tags: comments, spam
 Requires at least: 4.4
