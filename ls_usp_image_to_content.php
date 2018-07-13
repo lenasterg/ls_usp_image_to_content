@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name:     Ls_usp_image_to_content
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      https://github.com/lenasterg/ls_usp_image_to_content
+ * Description:     Extends 'User Submitted Posts' plugin by adding the uploaded images into the post content and creating the post thumbnail directly after the user submission.
+ * Author:          lenasterg
+ * Author URI:      https://lenasterg.wordpress.com
  * Text Domain:     ls_usp_image_to_content
  * Domain Path:     /languages
  * Version:         0.1.0
