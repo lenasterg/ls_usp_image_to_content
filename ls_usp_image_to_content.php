@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:     Ls_usp_image_to_content
+ * Plugin Name:     LS USP Image to content
  * Plugin URI:      https://github.com/lenasterg/ls_usp_image_to_content
  * Description:     Extends 'User Submitted Posts' plugin by adding the uploaded images into the post content and creating the post thumbnail directly after the user submission.
  * Author:          lenasterg
