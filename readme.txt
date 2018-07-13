@@ -1,4 +1,4 @@
-=== Ls_usp_image_to_content ===
+=== LS USP image to content ===
 Contributors: lenasterg
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q4VCLDW4BFW6L
 Tags: frontend post
